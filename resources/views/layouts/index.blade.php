@@ -150,7 +150,7 @@
                             <div class="block-title__image"></div><!-- /.block-title__image -->
                             <p>Union des Fonctionnaires Fermiers "UFF"</p>
                             <h5>Est une Organisation Non Gouvernementale en République Démocratique du Congo qui encadre
-                            les fonctionnaires de toutes categories (Fonctionnaire public ou privé , Opérateur économique , Confession réligieuse , Artiste ,  etc...) à devenir des Fermiers aux travaux champêtre </h5>
+                            les fonctionnaires de toutes categories (Fonctionnaire public ou privé , Opérateur économique , Confession réligieuse , Artiste ,  etc...) à devenir des Fermiers aux travaux champêtres</h5>
                         </div><!-- /.block-title -->
                         {{--<div class="about-one__tagline">
                             <p>We have 30 years of agriculture & eco farming experience globaly</p>
