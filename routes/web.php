@@ -26,6 +26,7 @@ Route::get('/services/{slug}',[\App\Http\Controllers\ServiceController::class,'s
 Route::get('/projets',[\App\Http\Controllers\ProjetController::class,'index']);
 Route::get('/projets/{slug}',[\App\Http\Controllers\ProjetController::class,'show'])->name('projets.show');
 Route::get('/news',[\App\Http\Controllers\BlogController::class,'index']);
+Route::post('/contact',[\App\Http\Controllers\ContactController::class,'store'])->name('contact.store');
 Route::get('/news/{slug}',[\App\Http\Controllers\BlogController::class,'show'])->name('blog.show');
 
 
