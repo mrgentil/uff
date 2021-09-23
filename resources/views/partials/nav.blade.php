@@ -11,7 +11,7 @@
                 <p>Bienvenu(e) chez Union de Fonctionnaires Fermiers</p>
             </div><!-- /.topbar__left -->
             <div class="topbar__right">
-                <a href="#"><i class="agrikon-icon-email"></i>uff49188@gmail.com ,projetuff@gmail.com</a>
+                <a href="#"><i class="agrikon-icon-email"></i>uff49188@gmail.com ,projetuff@gmail.com,contact@uffrdc.org</a>
                 <a href="#"><i class="agrikon-icon-clock"></i>Lun - Sam 8:00 - 17:30 , Dimanche repos</a>
             </div><!-- /.topbar__right -->
         </div><!-- /.container -->
@@ -24,7 +24,7 @@
             </div><!-- /.logo-box -->
             <ul class="main-menu__list">
                 <li>
-                    <a href="{{url('/')}}">Accuiel</a>
+                    <a href="{{url('/')}}">Accueil</a>
                 </li>
                 <li>
                     <a href="{{url('/about-us')}}">UFF</a>

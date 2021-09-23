@@ -138,10 +138,10 @@
                     <div class="about-one__images">
                         <img src="{{asset('assets/images/resources/about-1-1.jpg')}}" alt="">
                         <img src="{{asset('assets/images/resources/about-1-2.jpg')}}" alt="">
-                        <div class="about-one__count wow fadeInLeft" data-wow-duration="1500ms">
+                        {{--<div class="about-one__count wow fadeInLeft" data-wow-duration="1500ms">
                             <span>Tryphon KILEK - </span>
                             <h6>K – KILEH</h6>
-                        </div><!-- /.about-one__count -->
+                        </div>--}}<!-- /.about-one__count -->
                     </div><!-- /.about-one__images -->
                 </div><!-- /.col-lg-6 -->
                 <div class="col-lg-7">
