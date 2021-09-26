@@ -20059,3 +20059,36 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 #5 C:\\Users\\MrGentil\\uff\\artisan(37): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
 #6 {main}
 "} 
+[2021-09-26 08:49:44] local.INFO: No database connection yet in VoyagerServiceProvider loadAuth(). No worries, this is not a problem!  
+[2021-09-26 08:49:46] local.ERROR: There are no commands defined in the "ide-helper" namespace. {"exception":"[object] (Symfony\\Component\\Console\\Exception\\NamespaceNotFoundException(code: 0): There are no commands defined in the \"ide-helper\" namespace. at C:\\Users\\MrGentil\\uff\\vendor\\symfony\\console\\Application.php:612)
+[stacktrace]
+#0 C:\\Users\\MrGentil\\uff\\vendor\\symfony\\console\\Application.php(663): Symfony\\Component\\Console\\Application->findNamespace('ide-helper')
+#1 C:\\Users\\MrGentil\\uff\\vendor\\symfony\\console\\Application.php(255): Symfony\\Component\\Console\\Application->find('ide-helper:gene...')
+#2 C:\\Users\\MrGentil\\uff\\vendor\\symfony\\console\\Application.php(167): Symfony\\Component\\Console\\Application->doRun(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#3 C:\\Users\\MrGentil\\uff\\vendor\\laravel\\framework\\src\\Illuminate\\Console\\Application.php(92): Symfony\\Component\\Console\\Application->run(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#4 C:\\Users\\MrGentil\\uff\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(129): Illuminate\\Console\\Application->run(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#5 C:\\Users\\MrGentil\\uff\\artisan(37): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#6 {main}
+"} 
+[2021-09-26 08:49:56] local.INFO: No database connection yet in VoyagerServiceProvider loadAuth(). No worries, this is not a problem!  
+[2021-09-26 08:49:58] local.ERROR: There are no commands defined in the "ide-helper" namespace. {"exception":"[object] (Symfony\\Component\\Console\\Exception\\NamespaceNotFoundException(code: 0): There are no commands defined in the \"ide-helper\" namespace. at C:\\Users\\MrGentil\\uff\\vendor\\symfony\\console\\Application.php:612)
+[stacktrace]
+#0 C:\\Users\\MrGentil\\uff\\vendor\\symfony\\console\\Application.php(663): Symfony\\Component\\Console\\Application->findNamespace('ide-helper')
+#1 C:\\Users\\MrGentil\\uff\\vendor\\symfony\\console\\Application.php(255): Symfony\\Component\\Console\\Application->find('ide-helper:gene...')
+#2 C:\\Users\\MrGentil\\uff\\vendor\\symfony\\console\\Application.php(167): Symfony\\Component\\Console\\Application->doRun(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#3 C:\\Users\\MrGentil\\uff\\vendor\\laravel\\framework\\src\\Illuminate\\Console\\Application.php(92): Symfony\\Component\\Console\\Application->run(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#4 C:\\Users\\MrGentil\\uff\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(129): Illuminate\\Console\\Application->run(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#5 C:\\Users\\MrGentil\\uff\\artisan(37): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#6 {main}
+"} 
+[2021-09-26 08:49:58] local.INFO: No database connection yet in VoyagerServiceProvider loadAuth(). No worries, this is not a problem!  
+[2021-09-26 08:50:00] local.ERROR: There are no commands defined in the "ide-helper" namespace. {"exception":"[object] (Symfony\\Component\\Console\\Exception\\NamespaceNotFoundException(code: 0): There are no commands defined in the \"ide-helper\" namespace. at C:\\Users\\MrGentil\\uff\\vendor\\symfony\\console\\Application.php:612)
+[stacktrace]
+#0 C:\\Users\\MrGentil\\uff\\vendor\\symfony\\console\\Application.php(663): Symfony\\Component\\Console\\Application->findNamespace('ide-helper')
+#1 C:\\Users\\MrGentil\\uff\\vendor\\symfony\\console\\Application.php(255): Symfony\\Component\\Console\\Application->find('ide-helper:gene...')
+#2 C:\\Users\\MrGentil\\uff\\vendor\\symfony\\console\\Application.php(167): Symfony\\Component\\Console\\Application->doRun(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#3 C:\\Users\\MrGentil\\uff\\vendor\\laravel\\framework\\src\\Illuminate\\Console\\Application.php(92): Symfony\\Component\\Console\\Application->run(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#4 C:\\Users\\MrGentil\\uff\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(129): Illuminate\\Console\\Application->run(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#5 C:\\Users\\MrGentil\\uff\\artisan(37): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#6 {main}
+"} 
