@@ -22580,3 +22580,41 @@ error:1408F10B:SSL routines:ssl3_get_record:wrong version number at C:\\laragon\
 [2021-09-26 09:03:19] local.INFO: No database connection yet in VoyagerServiceProvider loadAuth(). No worries, this is not a problem!  
 [2021-09-26 09:03:24] local.INFO: No database connection yet in VoyagerServiceProvider loadAuth(). No worries, this is not a problem!  
 [2021-09-26 09:03:29] local.INFO: No database connection yet in VoyagerServiceProvider loadAuth(). No worries, this is not a problem!  
+[2021-09-26 09:03:34] local.INFO: No database connection yet in VoyagerServiceProvider loadAuth(). No worries, this is not a problem!  
+[2021-09-26 09:03:39] local.INFO: No database connection yet in VoyagerServiceProvider loadAuth(). No worries, this is not a problem!  
+[2021-09-26 09:03:44] local.INFO: No database connection yet in VoyagerServiceProvider loadAuth(). No worries, this is not a problem!  
+[2021-09-26 09:03:49] local.INFO: No database connection yet in VoyagerServiceProvider loadAuth(). No worries, this is not a problem!  
+[2021-09-26 09:03:54] local.INFO: No database connection yet in VoyagerServiceProvider loadAuth(). No worries, this is not a problem!  
+[2021-09-26 09:03:59] local.INFO: No database connection yet in VoyagerServiceProvider loadAuth(). No worries, this is not a problem!  
+[2021-09-26 09:04:04] local.INFO: No database connection yet in VoyagerServiceProvider loadAuth(). No worries, this is not a problem!  
+[2021-09-26 09:04:09] local.INFO: No database connection yet in VoyagerServiceProvider loadAuth(). No worries, this is not a problem!  
+[2021-09-26 09:04:14] local.INFO: No database connection yet in VoyagerServiceProvider loadAuth(). No worries, this is not a problem!  
+[2021-09-26 09:04:19] local.INFO: No database connection yet in VoyagerServiceProvider loadAuth(). No worries, this is not a problem!  
+[2021-09-26 09:04:24] local.INFO: No database connection yet in VoyagerServiceProvider loadAuth(). No worries, this is not a problem!  
+[2021-09-26 09:04:29] local.INFO: No database connection yet in VoyagerServiceProvider loadAuth(). No worries, this is not a problem!  
+[2021-09-26 09:04:34] local.INFO: No database connection yet in VoyagerServiceProvider loadAuth(). No worries, this is not a problem!  
+[2021-09-26 09:04:39] local.INFO: No database connection yet in VoyagerServiceProvider loadAuth(). No worries, this is not a problem!  
+[2021-09-26 09:04:44] local.INFO: No database connection yet in VoyagerServiceProvider loadAuth(). No worries, this is not a problem!  
+[2021-09-26 09:04:49] local.INFO: No database connection yet in VoyagerServiceProvider loadAuth(). No worries, this is not a problem!  
+[2021-09-26 09:04:54] local.INFO: No database connection yet in VoyagerServiceProvider loadAuth(). No worries, this is not a problem!  
+[2021-09-26 09:04:59] local.INFO: No database connection yet in VoyagerServiceProvider loadAuth(). No worries, this is not a problem!  
+[2021-09-26 09:05:04] local.INFO: No database connection yet in VoyagerServiceProvider loadAuth(). No worries, this is not a problem!  
+[2021-09-26 09:05:09] local.INFO: No database connection yet in VoyagerServiceProvider loadAuth(). No worries, this is not a problem!  
+[2021-09-26 09:05:14] local.INFO: No database connection yet in VoyagerServiceProvider loadAuth(). No worries, this is not a problem!  
+[2021-09-26 09:05:19] local.INFO: No database connection yet in VoyagerServiceProvider loadAuth(). No worries, this is not a problem!  
+[2021-09-26 09:05:24] local.INFO: No database connection yet in VoyagerServiceProvider loadAuth(). No worries, this is not a problem!  
+[2021-09-26 09:05:29] local.INFO: No database connection yet in VoyagerServiceProvider loadAuth(). No worries, this is not a problem!  
+[2021-09-26 09:05:34] local.INFO: No database connection yet in VoyagerServiceProvider loadAuth(). No worries, this is not a problem!  
+[2021-09-26 09:05:34] local.INFO: No database connection yet in VoyagerServiceProvider loadAuth(). No worries, this is not a problem!  
+[2021-09-26 09:05:36] local.ERROR: There are no commands defined in the "ide-helper" namespace. {"exception":"[object] (Symfony\\Component\\Console\\Exception\\NamespaceNotFoundException(code: 0): There are no commands defined in the \"ide-helper\" namespace. at C:\\Users\\MrGentil\\uff\\vendor\\symfony\\console\\Application.php:612)
+[stacktrace]
+#0 C:\\Users\\MrGentil\\uff\\vendor\\symfony\\console\\Application.php(663): Symfony\\Component\\Console\\Application->findNamespace('ide-helper')
+#1 C:\\Users\\MrGentil\\uff\\vendor\\symfony\\console\\Application.php(255): Symfony\\Component\\Console\\Application->find('ide-helper:gene...')
+#2 C:\\Users\\MrGentil\\uff\\vendor\\symfony\\console\\Application.php(167): Symfony\\Component\\Console\\Application->doRun(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#3 C:\\Users\\MrGentil\\uff\\vendor\\laravel\\framework\\src\\Illuminate\\Console\\Application.php(92): Symfony\\Component\\Console\\Application->run(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#4 C:\\Users\\MrGentil\\uff\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(129): Illuminate\\Console\\Application->run(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#5 C:\\Users\\MrGentil\\uff\\artisan(37): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#6 {main}
+"} 
+[2021-09-26 09:05:39] local.INFO: No database connection yet in VoyagerServiceProvider loadAuth(). No worries, this is not a problem!  
+[2021-09-26 09:05:44] local.INFO: No database connection yet in VoyagerServiceProvider loadAuth(). No worries, this is not a problem!  
